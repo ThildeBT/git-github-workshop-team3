@@ -3,3 +3,4 @@ ryebread
 cheese
 salt
 pepper
+lettuce
